@@ -10,11 +10,12 @@
 	"escapeParentheses": true,
 	"useWildcards": true,
 	"useEmbeddings": true,
-	"showAllResults": true,
+	"showAllResults": false,
 	"translation": {
 		"searchByTranslation": true,
 		"onlyShowTranslation": false,
-		"extraTranslationFile": "test-zh.csv"
+		"simpleExtraTranslationFile": false,
+		"extraTranslationFile": "test-zh-full.csv"
 	},
 	"colors": {
 		"danbooru": {
