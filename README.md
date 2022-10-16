@@ -1,1 +1,1 @@
-"# tag-for-autocompletion-with-translation" 
+# tag-for-autocompletion-with-translation
