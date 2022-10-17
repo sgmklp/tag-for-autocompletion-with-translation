@@ -1,5 +1,5 @@
 {
-	"tagFile": "test.csv",
+	"tagFile": "danbooru.csv",
 	"activeIn": {
 		"txt2img": true,
 		"img2img": true,
@@ -10,7 +10,7 @@
 	"escapeParentheses": true,
 	"useWildcards": true,
 	"useEmbeddings": true,
-	"showAllResults": false,
+	"showAllResults": true,
 	"translation": {
 		"searchByTranslation": true,
 		"onlyShowTranslation": false
