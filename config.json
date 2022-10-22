@@ -17,7 +17,7 @@
 		"onlyShowTranslation": false
 	},
 	"extra": {
-		"extraFile": "tags-zh-full.csv",
+		"extraFile": "Tags-zh-full.csv",
 		"onlyTranslationExtraFile": false
 	},
 	"colors": {
